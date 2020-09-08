@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+# ignore file
+PyCitySchools_Challenge_testing.ipynb
+PyCitySchools_Challenge_starter_code.ipynb
+cleaning_student_name.ipynb
+cleaning_data.ipynb
+PyCitySchools-Copy1.ipynb
+Untitled.ipynb
+PyCitySchools.ipynb
+
+
 # Distribution / packaging
 .Python
 build/
